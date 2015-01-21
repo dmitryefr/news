@@ -1,0 +1,2 @@
+# news
+The latest news
